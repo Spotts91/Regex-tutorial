@@ -583,7 +583,7 @@ possible. We can use `?` to match in a lazy way, which means the match should be
 * Open a pull request with improvements
 * Discuss ideas in issues
 * Spread the word
-* Reach out with any feedback [![Gmail] (oakshassa864@gmail.com)
+* Reach out with any feedback [Gmail] (oakshassa864@gmail.com)
 
 ## License
 
